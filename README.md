@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Juliana Chaves Palm 
 
-**Desenvolvedora & QA** | *Experiência em C# .NET, Python, xUnit, testes exploratórios, testes de regressão e testes unitários*
+**Desenvolvedora & QA** | *Experiência em C# .NET, JavaScript, Selenium, Postman, xUnit, testes exploratórios, testes de regressão e testes unitários*
 
 ## Sobre Mim
 Moro no Rio de Janeiro - RJ, desde 2022, atuo apaixonadamente no desenvolvimento de software, focando em criar experiências digitais acessíveis e excepcionais. Possuo expertise em linguagens como C#, Python, JavaScript, HTML e CSS, combino habilidades técnicas com uma visão centrada no design universal.
