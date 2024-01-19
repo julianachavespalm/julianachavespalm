@@ -33,6 +33,6 @@ Além de minha paixão pelo desenvolvimento, trago experiência em design de tes
 - Língua: Inglês avançado.
 
 ## Contato
-- 📫 Email: julianachavespalm@gmail.com 
+- Email: julianachavespalm@gmail.com 
 - LinkedIn: [Meu Perfil](https://www.linkedin.com/in/julianachavespalm)
 
