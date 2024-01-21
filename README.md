@@ -35,6 +35,6 @@ Além de minha paixão pelo desenvolvimento, trago experiência em design de tes
 - Java;
 
 ## 📫 Contato
-- Email: julianachavespalm@gmail.com 
-- LinkedIn: [Meu Perfil](https://www.linkedin.com/in/julianachavespalm)
+- [E-mail](julianachavespalm@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/julianachavespalm)
 
