@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Olá! Eu sou Juliana Chaves Palm👋</h1>
 
-<p align="center"><em>Desenvolvedora e QA com experiência sólida em C# .NET, JavaScript, Selenium, Postman, xUnit, testes exploratórios, testes de regressão e testes unitários. Resido no Rio de Janeiro - RJ desde 2022 e estou comprometida em proporcionar experiências digitais excepcionais por meio do desenvolvimento de software.</em></p>
+<p align="center"><em>Desenvolvedora e QA com experiência sólida em C# .NET, JavaScript, Selenium, Postman, Cypress, Robot Framework, xUnit, testes exploratórios, testes de regressão e testes unitários. Resido no Rio de Janeiro - RJ desde 2022 e estou comprometida em proporcionar experiências digitais excepcionais por meio do desenvolvimento de software.</em></p>
 
 🌐 **Experiência e Paixão:**
 Atuo com paixão no desenvolvimento de software, com foco em criar experiências digitais acessíveis e excepcionais. Minhas habilidades abrangem linguagens como C#, Python, JavaScript, HTML e CSS, e eu combino habilidades técnicas com uma perspectiva centrada no design universal.
