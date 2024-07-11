@@ -12,28 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Olá! Eu sou Juliana Chaves Palm👋</h1>
+<h1 align="center">Olá! Eu sou Juliana Chaves Palm 👋</h1>
 
-<p align="center"><em>Desenvolvedora e QA com experiência sólida em C# .NET, JavaScript, Selenium, Postman, Cypress, Robot Framework, xUnit, testes exploratórios, testes de regressão e testes unitários. Resido no Rio de Janeiro - RJ desde 2022 e estou comprometida em proporcionar experiências digitais excepcionais por meio do desenvolvimento de software.</em></p>
+<p align="center"><em>Desenvolvedora e QA com experiência sólida em Java, C# .NET, JavaScript, Selenium, Postman, Cypress, Robot Framework, xUnit, testes exploratórios, testes de regressão e testes unitários. Resido no Rio de Janeiro - RJ desde 2022 e estou comprometida em proporcionar experiências digitais excepcionais por meio do desenvolvimento de software.</em></p>
+
+### Sobre Mim
 
 🌐 **Experiência e Paixão:**
-Atuo com paixão no desenvolvimento de software, com foco em criar experiências digitais acessíveis e excepcionais. Minhas habilidades abrangem linguagens como C#, Python, JavaScript, HTML e CSS, e eu combino habilidades técnicas com uma perspectiva centrada no design universal.
+Atualmente sou QA na Spread, focada em garantir a qualidade de software através de testes meticulosos e estratégias eficazes. 
+Tenho paixão por criar experiências digitais acessíveis e excepcionais, com uma perspectiva centrada no design universal.
 
-⚙️ **Desenvolvimento e Testes:**
-Além do desenvolvimento, trago uma experiência sólida em design de testes. Desenvolvo estratégias e casos de teste detalhados para garantir a funcionalidade, estabilidade e usabilidade de produtos de software. Utilizo metodologias como Test-Driven Development (TDD) e Behavior-Driven Development (BDD), combinando técnicas manuais e automatizadas para assegurar a qualidade do produto final.
-
-🚀 **Habilidades em Destaque:**
-- Desenvolvimento de software: C# (.NET), Python, JavaScript, HTML, CSS.
-- Teste de Software: xUnit (C#), Postman (JavaScript), Selenium (C#), testes manuais, escrita de testes BDD.
-- Banco de dados: SQL Server, MySQL.
-- Ferramentas: Visual Studio, GitHub, Git Bash, Azure DevOps, Jira Software, Trello, Microsoft Word, Microsoft Excel.
-- Metodologias: Scrum, Desenvolvimento Orientado a Testes (TDD).
-- Língua: Inglês avançado.
+⚙️ **Habilidades em Destaque:**
+- **Desenvolvimento de Software:** Java, C# (.NET), Python, JavaScript, HTML, CSS.
+- **Teste de Software:** xUnit (C#), Postman (JavaScript), Selenium (C#/Java), testes manuais, escrita de testes BDD.
+- **Banco de Dados:** SQL Server, MySQL.
+- **Ferramentas:** Visual Studio, GitHub, Git Bash, Azure DevOps, Jira Software, Trello, Microsoft Word, Microsoft Excel.
+- **Metodologias:** Scrum, Desenvolvimento Orientado a Testes (TDD).
+- **Línguas:** Português (nativo), Inglês (avançado).
 
 📚 **Em Constante Aprendizado:**
 Atualmente, estou ampliando meus conhecimentos em Kotlin e Java para aprimorar ainda mais minhas habilidades.
 
 📧 **Contato:**
-- [E-mail](julianachavespalm@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/julianachavespalm)
+- [LinkedIn](https://www.linkedin.com/in/julianachavespalm)
+
 
