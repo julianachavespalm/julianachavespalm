@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center"><em>Quality Assurance Tester</em></p>
 
 ## Sobre Mim
-Desde 2022, sou desenvolvedora e QA, meu objetivo é assegurar que cada software ofereça uma experiência excepcional e acessível para todos, com uma perspectiva centrada no design universal.
+Desde 2022, sou desenvolvedora e testadora de software, meu objetivo é assegurar que cada software ofereça uma experiência excepcional e acessível para todos, com uma perspectiva centrada no design universal.
 Possuo experiência em Java, Python, C# .NET, JavaScript, Selenium, Postman, Cypress, Robot Framework, xUnit, testes exploratórios, testes de regressão e testes unitários. 
 <details>
   <summary>🌐 Experiência e Paixão</summary>
