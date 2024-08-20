@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <p align="center"><em>Quality Assurance Tester</em></p>
 
-## Sobre Mim
-Olá, me chamo Juliana Chaves Palm, sou Quality Assurance Tester. Desde 2022, tenho me dedicado ao desenvolvimento e teste de software, busco sempre aprimorar minhas habilidades e conhecimentos. Acredito que a tecnologia deve ser acessível a todos, e meu trabalho visa assegurar que cada software ofereça uma experiência excepcional para todos os usuários.
+<h2>Sobre Mim</h2>
+<p>Olá, me chamo Juliana Chaves Palm, sou Quality Assurance Tester. Desde 2022, tenho me dedicado ao desenvolvimento e teste de software, busco sempre aprimorar minhas habilidades e conhecimentos. Acredito que a tecnologia deve ser acessível a todos, e meu trabalho visa assegurar que cada software ofereça uma experiência excepcional para todos os usuários.</p>
 
 <details>
   <summary>🌐 Experiência e Paixão</summary>
@@ -26,21 +26,21 @@ Olá, me chamo Juliana Chaves Palm, sou Quality Assurance Tester. Desde 2022, te
 
 <details>
   <summary>⚙️ Habilidades em Destaque</summary>
-  
-- <b>Desenvolvimento de Software:</b> Java, C# (.NET), Python, JavaScript, HTML, CSS.
-- <b>Teste de Software:</b> xUnit (C#), Postman (JavaScript), Selenium (C#/Java), testes manuais, escrita de testes BDD.
-- <b>Banco de Dados:</b> SQL Server, MySQL.
-- <b>Ferramentas:</b> IntelliJ, Visual Studio, GitHub, Git Bash, Azure DevOps, Jira Software, Trello, Microsoft Word, Microsoft Excel.
-- <b>etodologias:</b> Scrum, Desenvolvimento Orientado a Testes (TDD).
-- <b>Línguas:</b> Português (nativo), Inglês (avançado).
-
+  <ul>
+    <li><b>Desenvolvimento de Software:</b> Java, C# (.NET), Python, JavaScript, HTML, CSS.</li>
+    <li><b>Teste de Software:</b> xUnit (C#), Postman (JavaScript), Selenium (C#/Java), testes manuais, escrita de testes BDD.</li>
+    <li><b>Banco de Dados:</b> SQL Server, MySQL.</li>
+    <li><b>Ferramentas:</b> IntelliJ, Visual Studio, GitHub, Git Bash, Azure DevOps, Jira Software, Trello, Microsoft Word, Microsoft Excel.</li>
+    <li><b>Metodologias:</b> Scrum, Desenvolvimento Orientado a Testes (TDD).</li>
+    <li><b>Línguas:</b> Português (nativo), Inglês (avançado).</li>
+  </ul>
 </details>
 
 <details>
   <summary>📚 Em Constante Aprendizado</summary>
   Estou comprometida com o aprendizado contínuo e atualmente expandindo meus conhecimentos em Kotlin e Java para aprimorar minhas habilidades.</details>
 
-📧 **Contato:**
+<p><b>📧 Contato:</b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianachavespalm)
 
