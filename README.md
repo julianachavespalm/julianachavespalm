@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <p align="center"><em>Quality Assurance Tester</em></p>
 
 ## Sobre Mim
-Desde 2022, sou desenvolvedora e testadora de software, meu objetivo é assegurar que cada software ofereça uma experiência excepcional e acessível para todos, com uma perspectiva centrada no design universal.
-Possuo experiência em Java, Python, C# .NET, JavaScript, Selenium, Postman, Cypress, Robot Framework, xUnit, testes exploratórios, testes de regressão e testes unitários. 
+Olá, me chamo Juliana Chaves Palm, sou Quality Assurance Tester. Desde 2022, tenho me dedicado ao desenvolvimento e teste de software, busco sempre aprimorar minhas habilidades e conhecimentos. Acredito que a tecnologia deve ser acessível a todos, e meu trabalho visa assegurar que cada software ofereça uma experiência excepcional para todos os usuários.
+
 <details>
   <summary>🌐 Experiência e Paixão</summary>
   Atualmente sou analista de testes de software na Spread, focada em garantir a qualidade de software através de testes manuais e automatizados.
