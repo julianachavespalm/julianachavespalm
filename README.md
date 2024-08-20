@@ -27,12 +27,12 @@ Olá, me chamo Juliana Chaves Palm, sou Quality Assurance Tester. Desde 2022, te
 <details>
   <summary>⚙️ Habilidades em Destaque</summary>
   
-- **Desenvolvimento de Software:** Java, C# (.NET), Python, JavaScript, HTML, CSS.
-- **Teste de Software:** xUnit (C#), Postman (JavaScript), Selenium (C#/Java), testes manuais, escrita de testes BDD.
-- **Banco de Dados:** SQL Server, MySQL.
-- **Ferramentas:** Visual Studio, GitHub, Git Bash, Azure DevOps, Jira Software, Trello, Microsoft Word, Microsoft Excel.
-- **Metodologias:** Scrum, Desenvolvimento Orientado a Testes (TDD).
-- **Línguas:** Português (nativo), Inglês (avançado).
+- <b>Desenvolvimento de Software:</b> Java, C# (.NET), Python, JavaScript, HTML, CSS.
+- <b>Teste de Software:</b> xUnit (C#), Postman (JavaScript), Selenium (C#/Java), testes manuais, escrita de testes BDD.
+- <b>Banco de Dados:</b> SQL Server, MySQL.
+- <b>Ferramentas:</b> IntelliJ, Visual Studio, GitHub, Git Bash, Azure DevOps, Jira Software, Trello, Microsoft Word, Microsoft Excel.
+- <b>etodologias:</b> Scrum, Desenvolvimento Orientado a Testes (TDD).
+- <b>Línguas:</b> Português (nativo), Inglês (avançado).
 
 </details>
 
