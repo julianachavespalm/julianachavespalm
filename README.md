@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>📚 Em Constante Aprendizado</summary>
-  Estou comprometida com o aprendizado contínuo e atualmente expandindo meus conhecimentos em Kotlin e Java para aprimorar minhas habilidades.</details>
+  Estou comprometida com o aprendizado contínuo e atualmente expandindo meus conhecimentos com  a formação Python para Dados, do ciclo 11, na Pretalabs.</details>
 
 <p><b>📧 Contato:</b></p>
 
