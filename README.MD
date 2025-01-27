@@ -33,8 +33,7 @@ Here are some ideas to get you started:
   </ul>
 
 <h2>📚 Em Constante Aprendizado</h2>
-  Estou comprometida com o aprendizado contínuo e atualmente expandindo meus conhecimentos com  a formação Python para Dados, do ciclo 11, na Pretalabs.</details>
-
+<p>Estou em constante aprendizado, além de me aprofundar em conhecimentos de automação, atualmente, me dedico à me aprimorar em metodolodias estatísticas aplicadas às ciências humanas.
 <p><b>📧 Contato:</b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianachavespalm)
