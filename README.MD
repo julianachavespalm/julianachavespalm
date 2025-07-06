@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>Olá, me chamo Juliana Chaves Palm, sou Quality Assurance Tester. Desde 2022, tenho me dedicado ao desenvolvimento e teste de software, busco sempre aprimorar minhas habilidades e conhecimentos. Acredito que a tecnologia deve ser acessível a todos, e meu trabalho visa assegurar que cada software ofereça uma experiência excepcional para todos os usuários.</p>
 
 <h2>🌐 Experiência e Paixão</h2>
-  Atualmente sou analista de testes de software na Spread, focada em garantir a qualidade de software através de testes manuais e automatizados.
+  Atualmente sou analista de testes de software na Capgemini, focada em garantir a qualidade de software através de testes manuais e automatizados.
 
 <h2>⚙️ Habilidades em Destaque</h2>
   <ul>
