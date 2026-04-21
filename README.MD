@@ -33,11 +33,6 @@ Atualmente me aprofundo em **metodologias estatísticas aplicadas às ciências 
 
 ---
 
-## 📊 GitHub Stats
-![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-
----
-
 ## 📧 Contato
 - [LinkedIn](https://www.linkedin.com/in/julianachavespalm)
 
