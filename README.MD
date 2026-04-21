@@ -39,8 +39,7 @@ Atualmente me aprofundo em **metodologias estatísticas aplicadas às ciências 
 ---
 
 ## 📧 Contato
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-- [Email](mailto:seuemail@exemplo.com)  
+- [LinkedIn](https://www.linkedin.com/in/julianachavespalm)
 
 ---
 
