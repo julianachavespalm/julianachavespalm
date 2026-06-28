@@ -1,4 +1,4 @@
-# 👩‍💻 Juliana Chaves Palm
+# Juliana Chaves Palm
 **Full Stack Developer | Java • Kotlin • Python**
 
 ## 🌐 Sobre Mim
