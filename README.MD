@@ -20,7 +20,7 @@ Não entrego apenas código. Entrego **soluções desenhadas, especificadas, imp
 
 | Entrega | Como | Evidência |
 |---|---|---|
-| **Desenho de soluções end-to-end** | Recebo demandas de stakeholders e conduzo arquitetura + especificação com **TLC-Spec-Driven Development (SDD)** | Ciclo completo: especificação → arquitetura → implementação → validação |
+| **Desenho de soluções end-to-end** | Recebo demandas de stakeholders e conduzo arquitetura + especificação com **Spec-Driven Development (SDD)** | Ciclo completo: especificação → arquitetura → implementação → validação |
 | **Backend de alta escala** | **Java**, Spring Boot, microsserviços, **Kafka**, concorrência e paralelismo distribuído | Sistemas críticos do setor financeiro |
 | **Dados & IA aplicados** | **BigQuery**, PostgreSQL/MySQL, chave-valor, agentes e **GitHub Copilot Extensions** | Soluções de dados end-to-end e IA no ciclo de desenvolvimento |
 | **Qualidade e estabilidade** | **TDD**, Clean Architecture, SOLID, observabilidade, war rooms | Serviços sustentáveis, testados e observáveis |
