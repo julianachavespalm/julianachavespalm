@@ -55,7 +55,7 @@ flowchart LR
 
 ### 🧭 Solução & Processo
 - Desenho end-to-end a partir de stakeholders
-- **TLC-Spec-Driven Development (SDD)**
+- **Spec-Driven Development (SDD)**
 - Colaboração em tríade com Data Science e Data Analytics
 - IA aplicada ao ciclo: **GitHub Copilot, Claude Code, Codex**
 
