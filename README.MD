@@ -1,55 +1,162 @@
+<div align="center">
+
 # Juliana Chaves Palm
-**Full Stack Developer | Java • Kotlin • Python**
 
-## 🌐 Sobre Mim
-Sou desenvolvedora Full Stack com foco em engenharia de software de alta fidelidade. Minha trajetória une o rigor da garantia de qualidade com a agilidade do desenvolvimento moderno. Especialista em construir sistemas estáveis e escaláveis, aplico princípios de **Clean Architecture**, **SOLID** e **TDD** para assegurar que cada linha de código seja sustentável e de fácil manutenção.
+### Software Engineer · Solution Design & SDD · Data Analytics & IA · Backend Java de Alta Escala
 
-Atuo na intersecção entre o desenvolvimento de backend, mobile e inteligência artificial, criando soluções que otimizam fluxos de trabalho e elevam a experiência do usuário final.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-julianachavespalm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julianachavespalm)
+[![GitHub](https://img.shields.io/badge/GitHub-julianachavespalm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julianachavespalm)
+[![Localização](https://img.shields.io/badge/Rio%20de%20Janeiro-Brasil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
----
-
-## ⚙️ Habilidades Técnicas
-
-### 🚀 Backend & Core
-- **Java**: Desenvolvimento de APIs de alta performance, Spring Boot, arquitetura de microsserviços e integração de sistemas.
-- **Kotlin**: Especialista em **Jetpack Compose** e **Clean Architecture** para Android, além de desenvolvimento funcional moderno no backend.
-- **Python**: Criação de agentes inteligentes, extensões personalizadas para GitHub Copilot, automação avançada e análise de dados.
-
-### 📱 Mobile & Frontend
-- **Android**: Desenvolvimento nativo com Kotlin utilizando arquiteturas MVVM/MVI e UI reativa.
-- **Web**: JavaScript/TypeScript, construção de interfaces e integrações seguras de API.
-
-### 🛠️ Infraestrutura & Qualidade (DevOps Mindset)
-- **CI/CD**: Estruturação de pipelines automatizados (GitHub Actions, Azure DevOps) integrando emuladores e testes contínuos.
-- **Bancos de Dados**: Modelagem e gestão em SQL Server, MySQL, DB2 e estratégias de Test Data Management (TDM).
-- **IA**: Desenvolvimento de agentes e habilidades sob medida para inteligência artificial generativa.
+</div>
 
 ---
 
-## 💼 Experiência Profissional
+## 🎯 O que eu entrego
 
-### **Capgemini – Desenvolvedora full stack**
-- Desenvolvimento e evolução de sistemas críticos para o setor bancário.
-- Automação de testes para mainframe, API (RestAssured), mobile (Appium/Maestro) e web (Selenium/Selenide).
-- Arquitetura e implementação de **GitHub Copilot Extensions**, integrando inteligência artificial diretamente ao ciclo de vida de desenvolvimento.
-- Implementação de arquiteturas de dados sintéticos em larga escala utilizando DB2 e Javelin.
-- Liderança técnica na definição de estratégias de prevenção de falhas e automação de ponta a ponta.
+> Engenheira de software que transforma **necessidades de negócio em soluções técnicas end-to-end** — da especificação à implementação, com arquitetura sólida, dados e IA integrados.
 
----
+Não entrego apenas código. Entrego **soluções desenhadas, especificadas, implementadas, testadas e observáveis**, com rastreabilidade entre a demanda do stakeholder e a entrega em produção.
 
-## 📚 Em Constante Evolução
-Atualmente, aprofundo meus conhecimentos em **metodologias estatísticas aplicadas às ciências humanas**, buscando formas de unir análise de dados sociais com inovação tecnológica.
-
-## 📧 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianachavespalm)
+| Entrega | Como | Evidência |
+|---|---|---|
+| **Desenho de soluções end-to-end** | Recebo demandas de stakeholders e conduzo arquitetura + especificação com **TLC-Spec-Driven Development (SDD)** | Ciclo completo: especificação → arquitetura → implementação → validação |
+| **Backend de alta escala** | **Java**, Spring Boot, microsserviços, **Kafka**, concorrência e paralelismo distribuído | Sistemas críticos do setor financeiro |
+| **Dados & IA aplicados** | **BigQuery**, PostgreSQL/MySQL, chave-valor, agentes e **GitHub Copilot Extensions** | Soluções de dados end-to-end e IA no ciclo de desenvolvimento |
+| **Qualidade e estabilidade** | **TDD**, Clean Architecture, SOLID, observabilidade, war rooms | Serviços sustentáveis, testados e observáveis |
 
 ---
 
-## 🛠️ Tecnologias
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+## 🧭 Como eu trabalho
+
+```mermaid
+flowchart LR
+    A[Stakeholders] --> B[Especificação<br/>SDD]
+    B --> C[Arquitetura<br/>Clean Architecture + SOLID]
+    C --> D[Implementação<br/>Java + Kafka + Dados]
+    D --> E[Validação<br/>TDD]
+    E --> F[Produção<br/>Observabilidade]
+    F -.feedback.-> A
+```
+
+**Cada prática tem uma função clara no ciclo:**
+- **SDD** conduz o ciclo de **especificação e arquitetura** — o *quê* e o *porquê*, antes do código.
+- **Clean Architecture** e **SOLID** estruturam o **código** — o *onde* e o *como*, com baixo acoplamento.
+- **TDD** valida o **comportamento das regras de negócio** — a garantia de que a entrega funciona e não regride.
+- **Observabilidade** garante que a entrega **permanece estável** em produção.
+
+---
+
+## ⚙️ Stack e competências
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧭 Solução & Processo
+- Desenho end-to-end a partir de stakeholders
+- **TLC-Spec-Driven Development (SDD)**
+- Colaboração em tríade com Data Science e Data Analytics
+- IA aplicada ao ciclo: **GitHub Copilot, Claude Code, Codex**
+
+### 🚀 Backend & Distribuídos
+- **Java**, Spring Boot, APIs REST
+- Microsserviços e integração assíncrona
+- **Kafka**, resiliência, idempotência
+- Concorrência e paralelismo distribuído
+
+</td>
+<td valign="top" width="50%">
+
+### 📊 Dados & IA
+- **BigQuery** e bases analíticas
+- **PostgreSQL**, **MySQL**, chave-valor
+- SQL Server, DB2
+- **GitHub Copilot Extensions** e agentes de IA
+
+### 🏗️ Engenharia & Arquitetura
+- **Clean Architecture**, **SOLID**, **TDD**
+- Testes: RestAssured, Appium/Maestro, Selenium/Selenide
+- Observabilidade, alertas, war rooms
+- CI/CD: GitHub Actions, Azure DevOps
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experiência em destaque
+
+### Capgemini · Engenharia de Software
+**Entregas principais:**
+- **Desenho de soluções end-to-end** a partir de demandas de stakeholders, com arquitetura e especificação via **SDD**.
+- Atuação em **Data Analytics e IA**, em colaboração com times de Data Science e Data Analytics.
+- Desenvolvimento de **sistemas críticos do setor financeiro**, com backend Java e integrações assíncronas.
+- Arquitetura e implementação de **GitHub Copilot Extensions**, levando IA ao ciclo de desenvolvimento.
+- Arquiteturas de **dados sintéticos em larga escala** (DB2, Javelin).
+- Liderança técnica em **prevenção de falhas** e automação ponta a ponta.
+
+---
+
+## 📌 Projetos que mostram minha entrega
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧩 composecolaboradores
+App Android de gestão de colaboradores com **Jetpack Compose** e **Clean Architecture**. CRUD, StateFlow, validações de domínio e testes automatizados.
+
+**Demonstra:** arquitetura limpa, qualidade e testes.
+
+[![Ver projeto](https://img.shields.io/badge/Ver%20projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julianachavespalm/composecolaboradores)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎵 acordes
+Estudo de formação de acordes para pessoas com **deficiência visual**.
+
+**Demonstra:** impacto social e acessibilidade.
+
+[![Ver projeto](https://img.shields.io/badge/Ver%20projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julianachavespalm/acordes)
+
+</td>
+<td width="33%" valign="top">
+
+### 📖 yvonne-mascarenhas
+Página em homenagem à Dra. Yvonne Mascarenhas.
+
+**Demonstra:** web, conteúdo e acessibilidade.
+
+[![Ver projeto](https://img.shields.io/badge/Ver%20projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julianachavespalm/yvonne-mascarenhas)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Em constante evolução
+
+- **Streaming, processamento batch e feature stores**, a partir de uma base sólida de engenharia.
+- **Metodologias estatísticas aplicadas às ciências humanas** — unindo análise de dados sociais e inovação tecnológica.
+
+---
+
+## 📬 Vamos conversar?
+
+<div align="center">
+
+Aberta a oportunidades em **engenharia de backend, design de soluções e sistemas de dados**.
+
+[![LinkedIn](https://img.shields.io/badge/Fale%20comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julianachavespalm)
+
+</div>
+
+---
+
+<div align="center">
+<sub>README construído para traduzir entregas, não apenas tecnologias.</sub>
+</div>
