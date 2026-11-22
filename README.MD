@@ -59,7 +59,7 @@ flowchart LR
 - Colaboração em tríade com Data Science e Data Analytics
 - IA aplicada ao ciclo: **GitHub Copilot, Claude Code, Codex**
 
-### 🚀 Backend & Distribuídos
+### Backend & Distribuídos
 - **Java**, Spring Boot, APIs REST
 - Microsserviços e integração assíncrona
 - **Kafka**, resiliência, idempotência
@@ -86,7 +86,7 @@ flowchart LR
 
 ---
 
-## 💼 Experiência em destaque
+## Experiência em destaque
 
 ### Capgemini · Engenharia de Software
 **Entregas principais:**
