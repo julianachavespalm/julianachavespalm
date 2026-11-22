@@ -12,7 +12,7 @@
 
 ---
 
-## 🎯 O que eu entrego
+## O que eu entrego
 
 > Engenheira de software que transforma **necessidades de negócio em soluções técnicas end-to-end** — da especificação à implementação, com arquitetura sólida, dados e IA integrados.
 
@@ -27,7 +27,7 @@ Não entrego apenas código. Entrego **soluções desenhadas, especificadas, imp
 
 ---
 
-## 🧭 Como eu trabalho
+## Como eu trabalho
 
 ```mermaid
 flowchart LR
@@ -47,13 +47,13 @@ flowchart LR
 
 ---
 
-## ⚙️ Stack e competências
+## Stack e competências
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🧭 Solução & Processo
+### Solução & Processo
 - Desenho end-to-end a partir de stakeholders
 - **Spec-Driven Development (SDD)**
 - Colaboração em tríade com Data Science e Data Analytics
@@ -68,13 +68,13 @@ flowchart LR
 </td>
 <td valign="top" width="50%">
 
-### 📊 Dados & IA
+### Dados & IA
 - **BigQuery** e bases analíticas
 - **PostgreSQL**, **MySQL**, chave-valor
 - SQL Server, DB2
 - **GitHub Copilot Extensions** e agentes de IA
 
-### 🏗️ Engenharia & Arquitetura
+### Engenharia & Arquitetura
 - **Clean Architecture**, **SOLID**, **TDD**
 - Testes: RestAssured, Appium/Maestro, Selenium/Selenide
 - Observabilidade, alertas, war rooms
@@ -99,13 +99,13 @@ flowchart LR
 
 ---
 
-## 📌 Projetos que mostram minha entrega
+## Projetos que mostram minha entrega
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🧩 composecolaboradores
+### composecolaboradores
 App Android de gestão de colaboradores com **Jetpack Compose** e **Clean Architecture**. CRUD, StateFlow, validações de domínio e testes automatizados.
 
 **Demonstra:** arquitetura limpa, qualidade e testes.
@@ -115,7 +115,7 @@ App Android de gestão de colaboradores com **Jetpack Compose** e **Clean Archit
 </td>
 <td width="33%" valign="top">
 
-### 🎵 acordes
+### acordes
 Estudo de formação de acordes para pessoas com **deficiência visual**.
 
 **Demonstra:** impacto social e acessibilidade.
@@ -125,7 +125,7 @@ Estudo de formação de acordes para pessoas com **deficiência visual**.
 </td>
 <td width="33%" valign="top">
 
-### 📖 yvonne-mascarenhas
+### yvonne-mascarenhas
 Página em homenagem à Dra. Yvonne Mascarenhas.
 
 **Demonstra:** web, conteúdo e acessibilidade.
@@ -138,14 +138,14 @@ Página em homenagem à Dra. Yvonne Mascarenhas.
 
 ---
 
-## 📚 Em constante evolução
+## Em constante evolução
 
 - **Streaming, processamento batch e feature stores**, a partir de uma base sólida de engenharia.
 - **Metodologias estatísticas aplicadas às ciências humanas** — unindo análise de dados sociais e inovação tecnológica.
 
 ---
 
-## 📬 Vamos conversar?
+## Vamos conversar?
 
 <div align="center">
 
