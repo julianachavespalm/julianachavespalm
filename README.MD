@@ -99,38 +99,41 @@ flowchart LR
 
 ---
 
-## Projetos que mostram minha entrega
+## Projetos em destaque
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### composecolaboradores
-App Android de gestão de colaboradores com **Jetpack Compose** e **Clean Architecture**. CRUD, StateFlow, validações de domínio e testes automatizados.
+### afrobank-ledger
+Core bancário de liquidação financeira e conta-corrente de alta escala com **Java 17, Spring Boot e Apache Kafka**.
 
-**Demonstra:** arquitetura limpa, qualidade e testes.
+**Decisões e Padrões Arquiteturais:**
+- **Prevenção de Deadlocks:** Ordenação determinística de recursos em bloqueios pessimistas (`SELECT FOR UPDATE`).
+- **Transactional Outbox Pattern:** Eliminação de escrita dupla (*dual-write*) com mensageria Kafka ordenada e contingência via Dead Letter Queue (DLQ).
+- **Idempotência & Consistência:** Suporte a `X-Idempotency-Key` (RFC 7807) e precisão contábil com `BigDecimal (HALF_EVEN)`.
+- **Validação Automatizada:** Suíte de 17 testes cobrindo domínio puro, serviços e contratos REST.
 
-[![Ver projeto](https://img.shields.io/badge/Ver%20projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julianachavespalm/composecolaboradores)
+**Evidência:** Backend financeiro crítico, resiliência distribuída e concorrência.
+
+[![Ver repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julianachavespalm/afrobank-ledger)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### acordes
-Estudo de formação de acordes para pessoas com **deficiência visual**.
+Guia normativo de teoria harmônica e piano acústico interativo em **ES6 nativo com Zero Runtime Dependencies**.
 
-**Demonstra:** impacto social e acessibilidade.
+**Decisões e Padrões Arquiteturais:**
+- **Governança SDD:** Ciclo completo com 12 ADRs e 10 Especificações de Features formalizadas em `.specs/`.
+- **Acessibilidade Universal (WCAG 2.1 AAA):** Falsa tabela ABNT, semântica editorial DPUB, Skip-Links e princípio do silêncio auditivo.
+- **Domínio Puro & Áudio Acústico:** Modelagem harmônica isolada do DOM, pool de 26 amostras acústicas reais e analisador físico via Web Audio.
+- **Rigor de Qualidade:** **96.61% de cobertura de testes** em runner nativo do Node.js (`node --test`).
 
-[![Ver projeto](https://img.shields.io/badge/Ver%20projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julianachavespalm/acordes)
+**Evidência:** Solution Design, Spec-Driven Development (SDD) e A11y Assistive-First.
 
-</td>
-<td width="33%" valign="top">
-
-### yvonne-mascarenhas
-Página em homenagem à Dra. Yvonne Mascarenhas.
-
-**Demonstra:** web, conteúdo e acessibilidade.
-
-[![Ver projeto](https://img.shields.io/badge/Ver%20projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julianachavespalm/yvonne-mascarenhas)
+[![Ver repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julianachavespalm/acordes)
+[![Aplicação Online](https://img.shields.io/badge/Aplicação%20Online-009c3b?style=flat-square&logo=googlechrome&logoColor=white)](https://julianachavespalm.github.io/acordes/)
 
 </td>
 </tr>
@@ -141,6 +144,7 @@ Página em homenagem à Dra. Yvonne Mascarenhas.
 ## Em constante evolução
 
 - **Streaming, processamento batch e feature stores**, a partir de uma base sólida de engenharia.
+- **Modelos e agentes de IA integrados a pipelines de dados analíticos**.
 - **Metodologias estatísticas aplicadas às ciências humanas** — unindo análise de dados sociais e inovação tecnológica.
 
 ---
