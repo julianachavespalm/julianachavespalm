@@ -22,7 +22,7 @@ Não entrego apenas código. Entrego **soluções desenhadas, especificadas, imp
 |---|---|---|
 | **Desenho de soluções end-to-end** | Recebo demandas de stakeholders e conduzo arquitetura + especificação com **Spec-Driven Development (SDD)** | Ciclo completo: especificação → arquitetura → implementação → validação |
 | **Backend de alta escala** | **Java**, Spring Boot, microsserviços, **Kafka**, concorrência e paralelismo distribuído | Sistemas críticos do setor financeiro |
-| **Dados & IA aplicados** | **BigQuery**, PostgreSQL/MySQL, chave-valor, agentes e **GitHub Copilot Extensions** | Soluções de dados end-to-end e IA no ciclo de desenvolvimento |
+| **Dados & IA aplicados** | **DuckDB/BigQuery**, Feature Stores, inferência estatística, ML e agentes de IA | Modelagem analítica preditiva e IA no ciclo de desenvolvimento |
 | **Qualidade e estabilidade** | **TDD**, Clean Architecture, SOLID, observabilidade, war rooms | Serviços sustentáveis, testados e observáveis |
 
 ---
@@ -69,14 +69,14 @@ flowchart LR
 <td valign="top" width="50%">
 
 ### Dados & IA
-- **BigQuery** e bases analíticas
+- **DuckDB**, **BigQuery** e Lakehouse colunar
 - **PostgreSQL**, **MySQL**, chave-valor
-- SQL Server, DB2
-- **GitHub Copilot Extensions** e agentes de IA
+- Feature Stores, Machine Learning e Agentes de IA
+- Inferência estatística e testes de hipótese
 
 ### Engenharia & Arquitetura
 - **Clean Architecture**, **SOLID**, **TDD**
-- Testes: RestAssured, Appium/Maestro, Selenium/Selenide
+- Testes: RestAssured, Pytest, Appium/Maestro
 - Observabilidade, alertas, war rooms
 - CI/CD: GitHub Actions, Azure DevOps
 
@@ -103,37 +103,49 @@ flowchart LR
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### afrobank-ledger
-Core bancário de liquidação financeira e conta-corrente de alta escala com **Java 17, Spring Boot e Apache Kafka**.
+Core bancário de liquidação financeira e conta-corrente com **Java 17, Spring Boot e Kafka**.
 
-**Decisões e Padrões Arquiteturais:**
-- **Prevenção de Deadlocks:** Ordenação determinística de recursos em bloqueios pessimistas (`SELECT FOR UPDATE`).
-- **Transactional Outbox Pattern:** Eliminação de escrita dupla (*dual-write*) com mensageria Kafka ordenada e contingência via Dead Letter Queue (DLQ).
-- **Idempotência & Consistência:** Suporte a `X-Idempotency-Key` (RFC 7807) e precisão contábil com `BigDecimal (HALF_EVEN)`.
-- **Validação Automatizada:** Suíte de 17 testes cobrindo domínio puro, serviços e contratos REST.
+- **Anti-Deadlock:** Locks pessimistas ordenados (`SELECT FOR UPDATE`).
+- **Transactional Outbox:** Mensageria assíncrona via Kafka com DLQ.
+- **Idempotência:** `X-Idempotency-Key` (RFC 7807) e `BigDecimal (HALF_EVEN)`.
+- **Qualidade:** 17 testes automatizados de domínio e contratos REST.
 
-**Evidência:** Backend financeiro crítico, resiliência distribuída e concorrência.
+**Evidência:** Backend financeiro crítico, resiliência e concorrência distribuída.
 
 [![Ver repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julianachavespalm/afrobank-ledger)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### playbook-analytics
+Plataforma de inteligência analítica e modelagem preditiva com **Python, DuckDB e ML**.
+
+- **Lakehouse Colunar:** DuckDB e Parquet otimizado com query de eventos SQL.
+- **Feature Store & Rigor:** Teste T de Student comprovando mando de quadra ($p < 0.05$).
+- **Machine Learning & Agente:** Win Probability calibrada e agente tático de IA.
+- **Qualidade:** **96% de cobertura** e CI no GitHub Actions.
+
+**Evidência:** Data Analytics & IA, Feature Store, modelagem estatística e MLOps.
+
+[![Ver repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julianachavespalm/playbook-analytics)
+
+</td>
+<td width="33%" valign="top">
 
 ### acordes
-Guia normativo de teoria harmônica e piano acústico interativo em **ES6 nativo com Zero Runtime Dependencies**.
+Guia normativo de teoria harmônica e áudio acústico com **Zero Runtime Dependencies**.
 
-**Decisões e Padrões Arquiteturais:**
-- **Governança SDD:** Ciclo completo com 12 ADRs e 10 Especificações de Features formalizadas em `.specs/`.
-- **Acessibilidade Universal (WCAG 2.1 AAA):** Falsa tabela ABNT, semântica editorial DPUB, Skip-Links e princípio do silêncio auditivo.
-- **Domínio Puro & Áudio Acústico:** Modelagem harmônica isolada do DOM, pool de 26 amostras acústicas reais e analisador físico via Web Audio.
-- **Rigor de Qualidade:** **96.61% de cobertura de testes** em runner nativo do Node.js (`node --test`).
+- **Governança SDD:** 12 ADRs e 10 Especificações de Features em `.specs/`.
+- **A11y WCAG 2.1 AAA:** Falsa tabela ABNT, semântica DPUB e silêncio auditivo.
+- **Domínio Puro:** Teoria harmônica isolada do DOM e pool de 26 amostras reais.
+- **Qualidade:** **96.6% de cobertura** em runner nativo (`node --test`).
 
 **Evidência:** Solution Design, Spec-Driven Development (SDD) e A11y Assistive-First.
 
 [![Ver repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julianachavespalm/acordes)
-[![Aplicação Online](https://img.shields.io/badge/Aplicação%20Online-009c3b?style=flat-square&logo=googlechrome&logoColor=white)](https://julianachavespalm.github.io/acordes/)
 
 </td>
 </tr>
@@ -143,9 +155,9 @@ Guia normativo de teoria harmônica e piano acústico interativo em **ES6 nativo
 
 ## Em constante evolução
 
-- **Streaming, processamento batch e feature stores**, a partir de uma base sólida de engenharia.
+- **Streaming de telemetria, processamento batch e feature stores em tempo real**.
 - **Modelos e agentes de IA integrados a pipelines de dados analíticos**.
-- **Metodologias estatísticas aplicadas às ciências humanas** — unindo análise de dados sociais e inovação tecnológica.
+- **Metodologias estatísticas aplicadas às ciências humanas e esportivas** — unindo análise de dados sociais e inovação tecnológica.
 
 ---
 
