@@ -146,6 +146,7 @@ Guia normativo de teoria harmônica e áudio acústico com **Zero Runtime Depend
 **Evidência:** Solution Design, Spec-Driven Development (SDD) e A11y Assistive-First.
 
 [![Ver repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julianachavespalm/acordes)
+[![Aplicação Online](https://img.shields.io/badge/Aplicação%20Online-009c3b?style=flat-square&logo=googlechrome&logoColor=white)](https://julianachavespalm.github.io/acordes/)
 
 </td>
 </tr>
